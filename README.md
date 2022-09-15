@@ -1,6 +1,6 @@
-<img src="pycache/First.png" width="1000">
-<img src="pycache/Second.png" width="1000">
-<img src="pycache/Third.png" width="1000">
+<img src="_pycache_/First.png" width="1000">
+<img src="_pycache_/Second.png" width="1000">
+<img src="_pycache_/Third.png" width="1000">
 
 
 

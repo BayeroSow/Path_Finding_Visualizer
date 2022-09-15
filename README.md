@@ -1,3 +1,10 @@
+<img src="pycache/First.png" width="1000">
+<img src="pycache/Second.png" width="1000">
+<img src="pycache/Third.png" width="1000">
+
+
+
+
 # Algorithm Visualizer
 A python visualization of the A* path finding algorithm. It allows you to pick your start and end location and view the process of finding the shortest path.
 

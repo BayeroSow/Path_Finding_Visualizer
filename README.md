@@ -1,6 +1,6 @@
-<img src="_pycache_/First.png" width="1000">
-<img src="_pycache_/Second.png" width="1000">
-<img src="_pycache_/Third.png" width="1000">
+<img src="Path_Findig_Visualizer/First.png" width="1000">
+<img src="Path_Findig_Visualizer/Second.png" width="1000">
+<img src="Path_Findig_Visualizer/Third.png" width="1000">
 
 
 

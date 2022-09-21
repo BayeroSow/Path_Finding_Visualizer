@@ -1,6 +1,3 @@
-<img src="Path_Finding_Visualizer/First.png" width="1000">
-<img src="Path_Finding_Visualizer/Second.png" width="1000">
-<img src="Path_Finding_Visualizer/Third.png" width="1000">
 
 
 

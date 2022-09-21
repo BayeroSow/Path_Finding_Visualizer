@@ -1,9 +1,6 @@
 <img src="Imgs/Screenshot.png" width="1000">
 <img src="Imgs/Screenshot 2022-09-16 at 00.04.51.png" width="1000">
  
-
-
-
 # Algorithm Visualizer
 A python visualization of the A* path finding algorithm. It allows you to pick your start and end location and view the process of finding the shortest path.
 

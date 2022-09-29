@@ -14,12 +14,10 @@ A python visualization of the A* path finding algorithm. It allows you to pick y
 ### User
 
 You pick something like sorting algorithm or searching algorithm or what ever may be, then you just go ahead and visualize that
-
 - Pick
 - Visualize
 
 ### Project
-
 - name: Algorithm Visualizer 
 - description: textfield
 - createdAt: timestamp

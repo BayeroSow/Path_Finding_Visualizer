@@ -17,7 +17,7 @@ def install(package):
 required = []
 failed = []
 
-# Try to open reqirements.txt file and read all required
+# Try to open reqirements.txt file and read all required packages
 try:
     file = open("requirements.txt", "r")
     file_lines = file.readlines()

@@ -21,7 +21,7 @@ failed = []
 try:
     file = open("requirements.txt", "r")
     file_lines = file.readlines()
-    required = [line.strip().lower() for line in file_lines]
+    required = [line.strip().lower() for line in ]
     file.close()
 except FileNotFoundError:
     print("[ERROR] No requiremnts.txt file found")

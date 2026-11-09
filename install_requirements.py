@@ -55,7 +55,7 @@ if len(required) > 0:
                     install(package)
                     with contextlib.redirect_stdout(None):
                         __import__(package)
-                    print("[LOG]", package, "has been installed")
+                    print("[LOG]", package, "")
                 except Exception as e:
                     print("[ERROR] Could not install", package, "-", e)
                     failed.append(package)

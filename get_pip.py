@@ -192,7 +192,7 @@ def main():
         with open(pip_zip, "wb") as fp:
             fp.write(b85decode(DATA.replace(b"\n", b"")))
 
-        # Add the zipfile to sys.path so that we can import it
+        # Add the zipfile to sys.path so that we can import 
         sys.path.insert(0, pip_zip)
 
         # Run the bootstrap

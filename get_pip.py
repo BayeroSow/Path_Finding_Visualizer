@@ -37,6 +37,7 @@ if PY3:
 else:
     def iterbytes(buf):
         return (ord(byte) for byte in buf)
+        return 
 
 try:
     from base64 import b85decode

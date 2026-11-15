@@ -26,6 +26,7 @@ import shutil
 import sys
 import struct
 import tempfile
+import template
 
 # Useful for very coarse version differentiation.
 PY2 = sys.version_info[0] == 2

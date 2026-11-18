@@ -27,6 +27,7 @@ import sys
 import struct
 import tempfile
 # Useful for very coarse version differentiation.
+# This is a comment
 PY2 = sys.version_info[0] == 2
 PY3 = sys.version_info[0] == 3
 
